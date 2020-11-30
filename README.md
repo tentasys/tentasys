@@ -4,6 +4,8 @@
 
 &#128188; Shinhan DS, Finance Biz 2 Cell (2019 ~ now)
 
+&#128149; Game, Music, Finance etc.. (All of things in the world &#128518;)
+
 <!--
 **tentasys/tentasys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
