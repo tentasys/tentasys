@@ -1,4 +1,8 @@
-### Hi there 👋
+### HeeJung Kang
+
+&#127891; Kwangwoon University, Department of Computer Engineering (2014 ~ 2019)
+
+&#128188; Shinhan DS, Finance Biz 2 Cell (2019 ~ now)
 
 <!--
 **tentasys/tentasys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
