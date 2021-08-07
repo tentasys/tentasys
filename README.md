@@ -6,6 +6,8 @@
 
 &#128149; Game, Music, Finance etc.. (All of things in the world &#128518;)
 
+[🏠 this is my Blog](https://tentasys.github.io/)
+
 
 [![Heejung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tentasys&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
